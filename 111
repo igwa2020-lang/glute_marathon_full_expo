@@ -1,0 +1,18 @@
+# 1. Клонируем пустой репозиторий с GitHub
+git clone https://github.com/igwa2020-lang/glute_marathon_full_expo.git
+
+# 2. Переходим в папку репозитория
+cd glute_marathon_full_expo
+
+# 3. Скачиваем мой проект ZIP с этого чата
+# (В ChatGPT файлы уже есть, но проще — я дам тебе .zip отдельно)
+# Разархивируй содержимое в эту папку, замени все файлы
+
+# 4. Добавляем файлы в Git
+git add .
+
+# 5. Делаем первый коммит
+git commit -m "Initial commit of Glute Marathon app"
+
+# 6. Отправляем на GitHub
+git push origin main
